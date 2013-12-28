@@ -1,0 +1,42 @@
+{
+   "fields":  [
+        {
+        	"id":1,
+            "field_name": "single line text",
+            "view_template_id": "null",
+            "edit_template_id": "123",
+            "field_data": {
+                "type": "text",
+                "name": "d",
+                "id": "f",
+                "size" :30,
+                "required":"true"
+            }
+        },
+        {
+        	"id":2,
+            "field_name": "password",
+            "view_template_id": "null",
+            "edit_template_id": "123",
+            "field_data": {
+                "type": "password",
+                "name": "d",
+                "id": "f",
+                "size" :30,
+                "required":"true"
+            }
+        },
+        {
+        	"id":3,
+            "field_name": "Email text input",
+            "view_template_id": "null",
+            "edit_template_id": "123",
+            "field_data": {
+                "type": "email",
+                "name": "d",
+                "id": "f",
+                "required":"true"
+            }
+        }
+    ]
+}

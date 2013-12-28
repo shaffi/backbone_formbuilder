@@ -1,0 +1,1284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scr",
+				"script"
+			],
+			[
+				"userfor",
+				"userform"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"find",
+				"find()	codemirror.js"
+			],
+			[
+				"get",
+				"get(attr)	backbone.js"
+			],
+			[
+				"add",
+				"addone(campaign)	campaignsview.js"
+			],
+			[
+				"campaigns",
+				"campaignsview"
+			],
+			[
+				"app",
+				"append()	jquery-1.9.0.js"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"product_",
+				"product_details"
+			],
+			[
+				"attr",
+				"attr(name, value)	jq.js.uncompressed.js"
+			],
+			[
+				"log",
+				"log()	firebug.js"
+			],
+			[
+				"ava",
+				"availableConditions_arr"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"user",
+				"UserApproval"
+			],
+			[
+				"ac",
+				"AC"
+			],
+			[
+				"cl",
+				"clinetID"
+			],
+			[
+				"htm",
+				"HTML_URL"
+			],
+			[
+				"cons",
+				"CONSTANTS"
+			],
+			[
+				"ER",
+				"ERROR_CODE_HEADER"
+			],
+			[
+				"val",
+				"value"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2855,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/templates/home.hbs",
+			"settings":
+			{
+				"buffer_size": 282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/templates/formbuilder.hbs",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 733,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/views/home.js",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"SID",
+				"View: Toggle Side Bar"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"togg",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntaxht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntaxjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntaja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntaxjava",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/projects/ADP/online apps/formbuilder/formbuilder/formbuilder.sublimeproject",
+		"/D/projects/ADP/online apps/formbuilder/digging/tb2/Gruntfile.js",
+		"/D/projects/ADP/online apps/formbuilder/digging/formbuilder-gh-pages (1)/formbuilder-gh-pages/formbuilder.sublimeproject",
+		"/C/Users/shaffiullah.g/Desktop/prosharing/mobile/mobi.php",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/index.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/collections/TodoList.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/controllers/index.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/lib/tpl.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/models/Todo.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/routers/index.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/templates/footer.tmpl",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/templates/todoListCompositeView.tmpl",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/views/CompletedCount.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/views/ActiveCount.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/views/TodoListCompositeView.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/views/TodoItemView.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/js/main.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/readme.md",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/backbone_marionette_require/app.build.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/angularjs_require/index.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/angularjs_require/js/services/todoStorage.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/angularjs_require/js/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/labs/dependency-examples/angularjs_require/js/main.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/dependency-examples/backbone_require/js/models/todo.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/dependency-examples/backbone_require/js/routers/router.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/dependency-examples/backbone_require/js/templates/stats.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/dependency-examples/backbone_require/js/templates/todos.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/dependency-examples/backbone_require/js/common.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/angexpfullstack/rainapp/Gruntfile.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/angexpfullstack/rainapp/server.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/angexpfullstack/rainapp/app/index.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/angexpfullstack/rainapp/public/index.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/qq/purchase_sharing.php",
+		"/C/Users/shaffiullah.g/Desktop/digging/qq/mobi.php",
+		"/C/Users/shaffiullah.g/Desktop/digging/qq/index.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/meanio/mean-master/server.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/meanio/mean-master/config/env/development.json",
+		"/C/Users/shaffiullah.g/Desktop/digging/meanio/mean-master/config/env/travis.json",
+		"/C/Users/shaffiullah.g/Desktop/digging/meanio/mean-master/config/middlewares/authorization.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/meanio/mean-master/config/routes.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/meanio/mean-master/config/config.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/meanio/mean-master/app/controllers/articles.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/meanio/mean-master/app/controllers/index.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/meanio/mean-master/app/controllers/users.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yomobile/app/scripts/application.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yomobile/app/scripts/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yomobile/app/scripts/fullscreensnippet.js",
+		"/C/Users/shaffiullah.g/Desktop/mobidemo/t1.html",
+		"/C/Users/shaffiullah.g/Desktop/mobidemo/helper.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yomobile/app/index.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/yomobile/Gruntfile.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yomobile/app/scripts/async.localStorage.examples.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yomobile/app/scripts/fastclick.example.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yoexpangular/app/index.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/expang/package.json",
+		"/C/Users/shaffiullah.g/Desktop/digging/expang/views/layout.jade",
+		"/C/Users/shaffiullah.g/Desktop/digging/yoexpangular/bower.json",
+		"/D/projects/ADP/frontend/click2call/public/js/app/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yoexpangular/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yomobile/bower.json",
+		"/C/Users/shaffiullah.g/Desktop/digging/yoexpangular/.travis.yml",
+		"/C/Users/shaffiullah.g/Desktop/digging/yoexpangular/app/scripts/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yoexpangular/app/styles/main.css",
+		"/C/Users/shaffiullah.g/Desktop/digging/yoexpangular/app/views/main.html",
+		"/C/Users/shaffiullah.g/Desktop/digging/yoexpangular/app/scripts/controllers/main.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/yomobile/app/scripts/main.js",
+		"/D/projects/ADP/frontend/click2call/app.js",
+		"/D/projects/ADP/frontend/click2call/public/stylesheets/style.css",
+		"/C/Users/shaffiullah.g/Desktop/demo/initializr/index.html",
+		"/D/projects/ADP/apiapp/routes/user.js",
+		"/C/Users/shaffiullah.g/Desktop/demo/sa.js",
+		"/C/Users/shaffiullah.g/Desktop/m/exp/index.php",
+		"/D/projects/ADP/frontend/click2call/public/js/main.js",
+		"/C/Users/shaffiullah.g/Desktop/simple_outbound_client.pl/simple_outbound_client.pl",
+		"/D/projects/ADP/frontend/click2call/config/config.json",
+		"/D/projects/ADP/online apps/click2call/app.js",
+		"/C/Users/shaffiullah.g/Desktop/demo/click2call/package.json",
+		"/C/Users/shaffiullah.g/Desktop/demo/click2call/config/config.json",
+		"/C/Users/shaffiullah.g/Desktop/demo/click2call/app.js",
+		"/C/Users/shaffiullah.g/Desktop/m/exp/mobile/mobi.php",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/architecture-examples/jquery/js/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/initializr-verekia-4.0 (1)/initializr/index.html",
+		"/D/projects/ADP/frontend/click2call/views/layout/main.handlebars",
+		"/D/projects/ADP/frontend/click2call/public/js/app/constants.js",
+		"/D/projects/ADP/frontend/click2call/views/home.handlebars",
+		"/D/projects/ADP/frontend/click2call/views/layout.dust",
+		"/D/projects/ADP/frontend/click2call/routes/index.js",
+		"/D/projects/ADP/frontend/click2call/package.json",
+		"/D/projects/ADP/frontend/click2call/public/main.js",
+		"/D/projects/ADP/frontend/click2call/views/index.handlebars",
+		"/C/Users/shaffiullah.g/Desktop/m/index.html",
+		"/C/Users/shaffiullah.g/Desktop/m/t1.html",
+		"/C/Users/shaffiullah.g/Desktop/m/basic_tag.php",
+		"/C/Users/shaffiullah.g/Desktop/m/mobi.php",
+		"/C/Users/shaffiullah.g/Desktop/m/index.php",
+		"/C/Users/shaffiullah.g/Desktop/m/mobile - Copy/mobi.php",
+		"/C/Users/shaffiullah.g/Desktop/m/purchase_sharing.php",
+		"/C/Users/shaffiullah.g/Desktop/m/env_settings.php",
+		"/C/Users/shaffiullah.g/Desktop/m/main.js",
+		"/D/projects/ADP/frontend/click2call/views/index.dust",
+		"/D/projects/ADP/frontend/click2call/public/js/app/common.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/dependency-examples/backbone_require/js/views/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/tastejs-todomvc-1.2.0-0-g71f080c/tastejs-todomvc-b29e998/dependency-examples/backbone_require/js/main.js",
+		"/D/projects/ADP/frontend/click2call/c2c.sublime-project",
+		"/D/projects/ADP/online apps/Gaurava-express-template-demo-master/express-template-demo-master/demo/views/thanks.dust",
+		"/D/projects/adminv3/com.tfsc.ilabs.adminconsole.webapp/jetty/webapps/adminconsole/WEB-INF/js/handlers/accountshandler.js",
+		"/D/projects/adminv3/com.tfsc.ilabs.adminconsole.webapp/jetty/webapps/adminconsole/WEB-INF/js/communicationchannel.js",
+		"/D/projects/adminv3/com.tfsc.ilabs.adminconsole.webapp/jetty/webapps/adminconsole/WEB-INF/js/modules/createrule.js",
+		"/D/projects/adminv3/com.tfsc.ilabs.adminconsole.webapp/jetty/webapps/adminconsole/WEB-INF/js/index.js",
+		"/D/projects/adminv3/com.tfsc.ilabs.adminconsole.webapp/jetty/webapps/adminconsole/WEB-INF/js/main.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/nodestack/build-complete-website-expressjs-master/build-complete-website-expressjs-master/app/templates/blog.hjs",
+		"/C/Users/shaffiullah.g/Desktop/digging/nodestack/d2/config/routes.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/nodestack/t1/views/index.dust",
+		"/C/Users/shaffiullah.g/Desktop/digging/nodestack/build-complete-website-expressjs-master/build-complete-website-expressjs-master/app/views/Base.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/nodestack/build-complete-website-expressjs-master/build-complete-website-expressjs-master/app/config/index.js",
+		"/D/projects/ADP/apiapp/app.js",
+		"/D/projects/ADP/online apps/Gaurava-express-template-demo-master/express-template-demo-master/demo/views/main.dust",
+		"/D/projects/ADP/online apps/Gaurava-express-template-demo-master/express-template-demo-master/demo/routes/index.js",
+		"/D/projects/ADP/online apps/Gaurava-express-template-demo-master/express-template-demo-master/demo/app.js",
+		"/D/projects/ADP/online apps/Gaurava-express-template-demo-master/express-template-demo-master/demo/views/layout.dust",
+		"/D/projects/ADP/online apps/Gaurava-express-template-demo-master/express-template-demo-master/demo/views/index.dust",
+		"/D/projects/ADP/online apps/Gaurava-express-template-demo-master/express-template-demo-master/demo/views/test.dust",
+		"/C/Users/shaffiullah.g/Desktop/digging/nodestack/server-configs-node-master/server-configs-node-master/lib/h5bp.js",
+		"/D/shaffi/res/TutsPlus - An Introduction to Node.js/Project Files/6-files/server.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/nodestack/build-complete-website-expressjs-master/build-complete-website-expressjs-master/app/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/nodestack/t1/app.js",
+		"/C/Users/shaffiullah.g/Desktop/digging/nodestack/build-complete-website-expressjs-master/build-complete-website-expressjs-master/app/controllers/Admin.js"
+	],
+	"find":
+	{
+		"height": 65.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.js",
+			"*.html",
+			"*.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"svg",
+			"compass",
+			"fetch",
+			"',\n",
+			"port",
+			"renderCallResponse",
+			"= ",
+			"myform",
+			"create",
+			"footerTemplate",
+			"todoTemplate",
+			"destroyCompleted",
+			"clearBtn",
+			"SETT",
+			".php",
+			"php",
+			"base",
+			"all",
+			"$",
+			"{",
+			"sendGetRequestAsync",
+			"handleErrorResponse",
+			"CommunicationChannel",
+			"fs",
+			"dust",
+			"user",
+			"Chat",
+			"chat",
+			"submitChat",
+			"<div",
+			"MBP",
+			"81px",
+			"30",
+			"38px",
+			"mer",
+			"merchant_id",
+			"store_id",
+			"itemss",
+			"order_details",
+			"data",
+			"order_details",
+			"php",
+			"map",
+			"items",
+			"order_details",
+			"email",
+			"<",
+			"base_url",
+			"php",
+			"js",
+			"soc",
+			"shopa",
+			"social",
+			".js",
+			"all.js",
+			"all",
+			"apple",
+			"respon",
+			"bootrap",
+			"google",
+			"icon",
+			"apple",
+			"sas",
+			"style",
+			"iframetest",
+			"outer",
+			"executewi",
+			" new sfWidgetFormSelect(array(",
+			"tree",
+			"err",
+			"succ",
+			"contactform",
+			"contactForm",
+			"bxslider",
+			"ftr",
+			"footer",
+			"dishfooter",
+			".btn",
+			"twitter",
+			"shopalize-tw-tab-btn",
+			"shopalize-tw-btn",
+			"all",
+			"cop",
+			"copy",
+			"shopalize-tw-btn",
+			".css",
+			"button",
+			"share",
+			"\"zocial twitter",
+			"shopalize-tw-btn",
+			"twitter",
+			"shopalize-emshare-from-name",
+			"img",
+			"bootstrap",
+			"Email",
+			"email",
+			"JAVASCRIPT",
+			"Freelance",
+			"x_delete",
+			"yourname",
+			".<li>",
+			".",
+			"js",
+			"../bootstrap/",
+			"-3",
+			"disfooter",
+			"shopalize-share-list ",
+			"disfooter",
+			"style=\"float:left;padding-left:10px;list-style:none\" class=\"shopalize-clearfix\"",
+			"shopalize-fb-btn",
+			"dishheader",
+			"<div class=\"container\"",
+			"html",
+			"body",
+			"autogrow",
+			"area",
+			"texta",
+			"mustache",
+			"_getDialogTemplate",
+			"fb-share-dialog",
+			"ShowFBShareDialog",
+			"window_url",
+			"Open",
+			"open",
+			"Open",
+			"open",
+			"h3",
+			"li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<script src=\"/js/vendor/jquery-1.8.3.min.js\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 2855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2481,
+								2481
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/scripts/templates/home.hbs",
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								282
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/scripts/templates/formbuilder.hbs",
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bower.json",
+					"settings":
+					{
+						"buffer_size": 733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								701,
+								701
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/scripts/views/home.js",
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 147.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rout",
+				"backbone_require/js/routers/router.js"
+			],
+			[
+				"variables.v",
+				"WEB-INF/js/modules/variables.view.js"
+			],
+			[
+				"in",
+				"backbone_require/index.html"
+			],
+			[
+				"commun",
+				"WEB-INF/js/communicationchannel.js"
+			],
+			[
+				"all.js",
+				"WEB-INF/spirit/js/handler/manage_url_handler.js"
+			],
+			[
+				"all",
+				"WEB-INF/spirit/js/handler/alerts_handler.js"
+			],
+			[
+				"contact",
+				"WEB-INF/js/vendor/codemirror/addon/matchbrackets.js"
+			],
+			[
+				"contact2",
+				"/C/fragmentation/silva/contact2.php"
+			],
+			[
+				"inde",
+				"backbone_require/index.html"
+			],
+			[
+				"uire",
+				"js/uirenderer.js"
+			],
+			[
+				"viewrules",
+				"js/modules/viewrules.js"
+			],
+			[
+				"mana",
+				"htmls/managerules.html"
+			],
+			[
+				"viewr",
+				"htmls/doeviewrules.html"
+			],
+			[
+				"viewall",
+				"js/modules/viewalltrackables.js"
+			],
+			[
+				"uiren",
+				"js/uirenderer.js"
+			],
+			[
+				"utils",
+				"js/utils.js"
+			],
+			[
+				"uirender",
+				"js/uirenderer.js"
+			],
+			[
+				"bootstrap",
+				"js/modules/viewallbootstraps.js"
+			],
+			[
+				"viewallvariables",
+				"js/modules/viewallvariables.js"
+			],
+			[
+				"variab",
+				"htmls/viewallvariables.html"
+			],
+			[
+				"doeview",
+				"js/modules/doeview.js"
+			],
+			[
+				"style",
+				"css/styles.css"
+			],
+			[
+				"manage",
+				"htmls/managerules.html"
+			],
+			[
+				"viewru",
+				"htmls/doeviewrules.html"
+			],
+			[
+				"doe",
+				"js/modules/doeview.js"
+			],
+			[
+				"uti",
+				"js/utils.js"
+			],
+			[
+				"customscr",
+				"htmls/customscripteditor.html"
+			],
+			[
+				"customscri",
+				"js/modules/customscripteditor.js"
+			],
+			[
+				"manager",
+				"htmls/managerules.html"
+			],
+			[
+				"managerules.",
+				"htmls/managerules.html"
+			],
+			[
+				"managerule",
+				"htmls/managerules.html"
+			],
+			[
+				"doeviewrules.",
+				"htmls/doeviewrules.html"
+			],
+			[
+				"cust",
+				"libs/dojox/charting/themes/CubanShirts.js.uncompressed.js"
+			],
+			[
+				"customscript",
+				"htmls/customscripteditor.html"
+			],
+			[
+				"summa",
+				"spirit/htmls/Summary.html"
+			],
+			[
+				"summary",
+				"spirit/htmls/Summary.html"
+			],
+			[
+				"home",
+				"htmls/homepage.html"
+			],
+			[
+				"sdde",
+				"js/modules/sddevtoqa.js"
+			],
+			[
+				"boot",
+				"js/modules/bootstraps.add.js"
+			],
+			[
+				"boots",
+				"js/modules/bootstraps.edit.js"
+			],
+			[
+				"styl",
+				"css/styles.css"
+			],
+			[
+				"createru",
+				"htmls/createrule.html"
+			],
+			[
+				"createrule",
+				"js/modules/createrule.js"
+			],
+			[
+				"custom",
+				"htmls/customscripteditor.html"
+			],
+			[
+				"customs",
+				"js/modules/customscripteditor.js"
+			],
+			[
+				"usera",
+				"js/handlers/userhandler.js"
+			],
+			[
+				"customscripteditor",
+				"js/modules/customscripteditor.js"
+			],
+			[
+				"us",
+				"js/modules/userapproval.js"
+			],
+			[
+				"devt",
+				"js/modules/sddevtoqa.js"
+			],
+			[
+				"qa",
+				"js/modules/certify_qa_build.js"
+			],
+			[
+				"deploy_sd_dev.html",
+				"htmls/deploy_sd_dev.html"
+			],
+			[
+				"cons",
+				"js/constants.js"
+			],
+			[
+				"createmode",
+				"js/modules/createmodel.js"
+			],
+			[
+				"createmodel",
+				"htmls/createmodel.html"
+			],
+			[
+				"creater",
+				"htmls/createrule.html"
+			],
+			[
+				"createmodel.",
+				"js/modules/createmodel.js"
+			],
+			[
+				"variables.add",
+				"js/modules/variables.add.js"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"247",
+				"/D/projects/shopalize/digg/247all.js"
+			],
+			[
+				"consta",
+				"js/constants.js"
+			],
+			[
+				"depl",
+				"js/handlers/deploymenthandler.js"
+			],
+			[
+				"qa_env",
+				"js/modules/qa_env_upgrade.js"
+			],
+			[
+				"commu",
+				"js/communicationchannel.js"
+			],
+			[
+				"deplo",
+				"js/handlers/deploymenthandler.js"
+			],
+			[
+				"deploy_sd_qa_upg.html",
+				"htmls/deploy_sd_qa_upg.html"
+			],
+			[
+				"communi",
+				"js/communicationchannel.js"
+			],
+			[
+				"sddev",
+				"js/modules/sddevtoqa.js"
+			],
+			[
+				"ad_qa_aprv_or_rej_buildpush.html",
+				"htmls/ad_qa_aprv_or_rej_buildpush.html"
+			],
+			[
+				"sd",
+				"htmls/deploy_sd_qa_certify4prod.html"
+			],
+			[
+				"",
+				"htmls/deploy_sd_qa_upg.html"
+			],
+			[
+				"certi",
+				"js/modules/certify_qa_build.js"
+			],
+			[
+				"deploymenthandler",
+				"js/handlers/deploymenthandler.js"
+			],
+			[
+				"deploy_sd",
+				"htmls/deploy_sd_qa_upg.html"
+			],
+			[
+				"upg",
+				"js/modules/qaupgrade.js"
+			],
+			[
+				"deploy",
+				"js/handlers/deploymenthandler.js"
+			],
+			[
+				"underscore",
+				"js/vendor/underscore-min.js"
+			],
+			[
+				"qaenv",
+				"js/modules/qa_env_upgrade.js"
+			],
+			[
+				"certify",
+				"js/modules/certify_qa_build.js"
+			],
+			[
+				"crea",
+				"htmls/createrule.html"
+			],
+			[
+				"installp",
+				"libs/dijit/nls/dijit-all_pl.js"
+			],
+			[
+				"qa_env_upgrade",
+				"js/modules/qa_env_upgrade.js"
+			],
+			[
+				"upgrade",
+				"htmls/deploy_sd_qa_upgrade.html"
+			],
+			[
+				"commchannel",
+				"js/communicationchannel.js"
+			],
+			[
+				"deployment",
+				"js/handlers/deploymenthandler.js"
+			],
+			[
+				"certify_qa_build.js",
+				"js/modules/certify_qa_build.js"
+			],
+			[
+				"deployme",
+				"js/handlers/deploymenthandler.js"
+			],
+			[
+				"constan",
+				"js/constants.js"
+			],
+			[
+				"constants",
+				"js/constants.js"
+			],
+			[
+				"variables",
+				"js/modules/variables.add.js"
+			],
+			[
+				"index",
+				"js/index.js"
+			],
+			[
+				"managetps",
+				"js/modules/managetps.js"
+			],
+			[
+				"viewallvar",
+				"js/modules/viewallvariables.js"
+			],
+			[
+				"homepage",
+				"htmls/homepage.html"
+			],
+			[
+				"viewmodel",
+				"htmls/viewmodels.html"
+			],
+			[
+				"viewrule",
+				"htmls/viewrules.html"
+			],
+			[
+				"homepa",
+				"htmls/homepage.html"
+			],
+			[
+				"viewmodels.",
+				"htmls/viewmodels.html"
+			],
+			[
+				"homepage.",
+				"htmls/homepage.html"
+			],
+			[
+				"createtp",
+				"js/modules/createtp.js"
+			],
+			[
+				"sddevtoqa",
+				"js/modules/sddevtoqa.js"
+			],
+			[
+				"styles.",
+				"css/styles.css"
+			],
+			[
+				"sddeplo",
+				"js/handlers/deploymenthandler.js"
+			],
+			[
+				"userapp",
+				"js/modules/userapproval.js"
+			],
+			[
+				"userappr",
+				"htmls/userapproval2.html"
+			],
+			[
+				"userhand",
+				"js/handlers/userhandler.js"
+			],
+			[
+				"deplyment",
+				"js/handlers/deploymenthandler.js"
+			],
+			[
+				"certify_qa_build",
+				"js/modules/certify_qa_build.js"
+			],
+			[
+				"ad_qa_aprv_or_rej_buildpush",
+				"htmls/ad_qa_aprv_or_rej_buildpush.html"
+			],
+			[
+				"sd_qau",
+				"htmls/deploy_sd_qa_upg.html"
+			],
+			[
+				"deploy_sd_qa_certify4qa.html",
+				"htmls/deploy_sd_qa_certify4qa.html"
+			],
+			[
+				"userapprova",
+				"htmls/userapproval.html"
+			],
+			[
+				"sd_qa",
+				"htmls/deploy_sd_qa_upg.html"
+			],
+			[
+				"userhandle",
+				"js/handlers/userhandler.js"
+			],
+			[
+				"approval",
+				"js/modules/userapproval.js"
+			],
+			[
+				"deploysd",
+				"htmls/deploy_sd_qa_upg.html"
+			],
+			[
+				"sdd",
+				"js/modules/sddevtoqa.js"
+			],
+			[
+				"copyru",
+				"js/modules/copyrule.js"
+			],
+			[
+				"editru",
+				"htmls/editrule.html"
+			],
+			[
+				"edit",
+				"js/modules/editrule.js"
+			],
+			[
+				"util",
+				"js/utils.js"
+			],
+			[
+				"viewmode",
+				"htmls/viewmodels.html"
+			],
+			[
+				"conditionh",
+				"js/handlers/conditionshandler.js"
+			],
+			[
+				"uir",
+				"js/uirenderer.js"
+			],
+			[
+				"userap",
+				"js/modules/userapproval.js"
+			],
+			[
+				"communica",
+				"js/communicationchannel.js"
+			],
+			[
+				"const",
+				"js/constants.js"
+			],
+			[
+				"editrule",
+				"js/modules/editrule.js"
+			],
+			[
+				"modelhand",
+				"js/handlers/modelhandler.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": false
+}
